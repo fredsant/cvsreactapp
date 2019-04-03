@@ -1,0 +1,31 @@
+.Cvs__batman {
+  width: 100%;
+  padding: 2rem 0;
+  background: url('../../images/stars.svg'), #0a0a0a;
+  background-repeat: repeat;
+  margin-bottom: 1rem;
+}
+
+.Cvs__batman>.Cvs__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Cvs__container {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.Cvs_conf-logo {
+  margin-bottom: 2rem;
+  width: 100px; height: 100px;
+}
+
+.Cvs__buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
